@@ -1,6 +1,7 @@
 
 # Mr. Blue Walkthrough (Windows)
 <img width="356" height="185" alt="Screenshot 2026-07-22 102516" src="https://github.com/user-attachments/assets/beb7491c-c835-4c6e-82b3-8a8cca75fcec" />
+
 ## Overview
 In this lab, I assessed a Windows Server 2008 R2 Enterprise SP1 machine by performing service enumeration, vulnerability assessment, and exploitation. The target exposed several services including SMB, MSSQL, IIS, DNS, RDP, and Splunk. Initial reconnaissance identified a likely MS17-010 (EternalBlue) vulnerability, which became the primary attack vector.
 
@@ -14,6 +15,7 @@ In this lab, I assessed a Windows Server 2008 R2 Enterprise SP1 machine by perfo
 
 <img width="511" height="391" alt="Screenshot 2026-07-22 085329" src="https://github.com/user-attachments/assets/3faae8e2-8176-4076-9a0a-142bb0698b95" />
 <img width="521" height="371" alt="Screenshot 2026-07-22 085423" src="https://github.com/user-attachments/assets/6fa2d90c-7ec6-4c13-a33f-094ede3b5658" />
+
 ```
 Windows Server 2008 R2 Enterprise SP1 x64
 ```
